@@ -24,15 +24,15 @@
 
 ---
 
-##  Sobre mim
+##  About Me
 
-Olá! Sou **Gabriel Nunes Lopes**, apaixonado por tecnologia e programação.
+Hello! I'm Gabriel Nunes Lopes, passionate about technology and software development.
 
-Atualmente estudo desenvolvimento de software e busco evoluir constantemente minhas habilidades, criando projetos, aprendendo novas técnicas e explorando diferentes soluções para problemas do mundo real.
+I am currently studying software development and continuously improving my skills by building projects, learning new techniques, and exploring different solutions to real-world problems.
 
 ---
 
-##  Tecnologias
+##  Technologies
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Atualmente estudo desenvolvimento de software e busco evoluir constantemente min
 
 ---
 
-##  Estatísticas GitHub
+##  GitHub Statistics
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Atualmente estudo desenvolvimento de software e busco evoluir constantemente min
 
 ---
 
-##  Sequência de Contribuições
+##  Contribution Streak
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Atualmente estudo desenvolvimento de software e busco evoluir constantemente min
 
 ---
 
-## Atividade
+## Activity Graph
 
 <div align="center">
 
@@ -74,21 +74,21 @@ Atualmente estudo desenvolvimento de software e busco evoluir constantemente min
 
 ---
 
-##  Objetivos
+## Goals
 
-  Evoluir como desenvolvedor
+  Grow as a software developer
 
-  Criar projetos cada vez mais completos
+  Build increasingly complex and impactful projects
 
-  Aprender novas tecnologias
+  Learn new technologies and best practices
 
-  Compartilhar conhecimento e experiências
+  Share knowledge and experiences with the community
 
 ---
 
 <div align="center">
 
-> *"O código limpo sempre parece ter sido escrito por alguém que se importa."*
+> *"Clean code always looks like it was written by someone who cares."*
 > **— Robert C. Martin**
 
 </div>
