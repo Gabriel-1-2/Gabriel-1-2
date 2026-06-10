@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Gabriel+Nunes+Lopes;Desenvolvedor+em+evolu%C3%A7%C3%A3o;C%2B%2B+%7C+HTML+%7C+CSS;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Gabriel+Nunes+Lopes;Software+Developer;C%2B%2B+%7C+HTML+%7C+CSS;Building+Projects+and+Learning+Every+Day" />
 
 <br>
 
