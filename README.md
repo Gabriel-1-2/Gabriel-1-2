@@ -24,7 +24,7 @@
 
 ---
 
-##  About Me
+## 🛠️ About Me
 
 Hello! I'm Gabriel Nunes Lopes, passionate about technology and software development.
 
@@ -32,21 +32,21 @@ I am currently studying software development and continuously improving my skill
 
 ---
 
-##  Technologies
+## 💻 Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,git,github,js,nodejs" />
 
 </div>
 
 ---
 
-##  GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielNunesLopes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielNunesLopes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunesLopes&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -54,7 +54,7 @@ I am currently studying software development and continuously improving my skill
 
 ---
 
-##  Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I am currently studying software development and continuously improving my skill
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -74,15 +74,12 @@ I am currently studying software development and continuously improving my skill
 
 ---
 
-## Goals
+## 🎯 Goals
 
-  Grow as a software developer
-
-  Build increasingly complex and impactful projects
-
-  Learn new technologies and best practices
-
-  Share knowledge and experiences with the community
+- 🚀 Grow as a software developer
+- 💡 Build increasingly complex and impactful projects
+- 📚 Learn new technologies and best practices
+- 🤝 Share knowledge and experiences with the community
 
 ---
 
