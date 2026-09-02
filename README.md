@@ -1,64 +1,45 @@
 <div align="center">
 
-  <!-- Banner Dinâmico em Digitação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Gabriel+Nunes+Lopes;Desenvolvedor+de+Software;C%2B%2B+%7C+JavaScript+%7C+Node.js;Construindo+Projetos+e+Evoluindo+Sempre" alt="Header Typing" />
+# Gabriel Nunes Lopes
 
-  <br><br>
+### Software Developer • Back-End Development
 
-  <!-- Redes Sociais com Badges Estilizados -->
-  <a href="https://www.linkedin.com/in/gabriel-nunes-lopes-40621b3b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabrielnuneslopes2022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/bielz_hin/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://ko-fi.com/gabrielnuneslopes#payment-widget" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;Back-End+%26+APIs;C%2B%2B+%7C+JavaScript+%7C+Node.js;Transformando+ideias+em+c%C3%B3digo." alt="Typing SVG" />
 
-</div>
+<br>
 
----
-
-### 👨‍💻 Sobre Mim
-
-> Olá! Sou **Gabriel Nunes Lopes**, apaixonado por tecnologia e desenvolvimento de software.
-
-Atualmente, estou focado nos estudos de desenvolvimento Back-End e Engenharia de Software. Busco aprimorar constantemente minhas habilidades por meio de projetos práticos, explorando arquiteturas eficientes e resolução de problemas reais.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,html,css,git,github,vscode&perline=9" alt="Minhas Habilidades" />
-  </a>
+<a href="https://www.linkedin.com/in/gabriel-nunes-lopes-40621b3b5/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gabrielnuneslopes2022@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/bielz_hin/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://ko-fi.com/gabrielnuneslopes#payment-widget" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+</a>
 
 </div>
 
 ---
 
-### 📌 Projetos em Destaque
+## 👨‍💻 Sobre mim
 
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :--- | :--- |
-| **Programação Back-End** | Repositório dedicado aos estudos, conceitos, práticas e projetos em desenvolvimento Back-End. | `C++`, `Node.js`, `JavaScript` | [Acessar Repositório](https://github.com/GabrielNunesLopes/programacao-backend) |
+Sou **Gabriel Nunes Lopes**, desenvolvedor em formação com foco em **Back-End e Engenharia de Software**.
+
+Atualmente, concentro meus estudos na construção de aplicações, APIs e sistemas utilizando **C++, JavaScript e Node.js**, aplicando conceitos de **Programação Orientada a Objetos, arquitetura de software, organização de código e boas práticas de desenvolvimento**.
+
+Busco transformar conhecimento teórico em experiência prática por meio de projetos próprios, sempre priorizando código organizado, escalável e de fácil manutenção.
 
 ---
 
-### 📊 Visão Geral & Foco Atual
+## 🛠️ Stack & Ferramentas
 
 <div align="center">
 
-| ⚡ Status | 🚀 Tecnologias Práticas | 🎯 Foco Principal |
-| :--- | :--- | :--- |
-| **Estudante de Back-End** | C++, JavaScript, Node.js | Estruturação de APIs & POO |
-| **Evolução Diária** | Git, Express, Clean Code | Boas práticas & Código Limpo |
+<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,html,css,git,github,vscode&perline=9" alt="Tecnologias e ferramentas"/>
 
 </div>
 
@@ -66,29 +47,96 @@ Atualmente, estou focado nos estudos de desenvolvimento Back-End e Engenharia de
 
 <div align="center">
 
-  <!-- Snake Game - Animação de Contribuições -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+|  Back-End  | Desenvolvimento |  Ferramentas  |
+| :--------: | :-------------: | :-----------: |
+|   Node.js  |       C++       |      Git      |
+| Express.js |    JavaScript   |     GitHub    |
+|  APIs REST |    HTML & CSS   |    VS Code    |
+|     POO    |    Clean Code   | Versionamento |
 
 </div>
 
 ---
 
-### 🎯 Objetivos
+## 🚀 Projeto em destaque
 
-- 🚀 **Crescer como desenvolvedor de software** focado em soluções robustas.
-- 💡 **Criar projetos cada vez mais complexos e impactantes.**
-- 📚 **Dominar novas tecnologias e padrões de arquitetura do mercado.**
-- 🤝 **Compartilhar conhecimentos e contribuir com a comunidade.**
+### Programação Back-End
+
+Repositório dedicado à minha evolução em **desenvolvimento Back-End**, reunindo estudos, exercícios, conceitos e projetos desenvolvidos durante meu aprendizado.
+
+**Principais tecnologias:** `C++` `JavaScript` `Node.js`
+
+➡️ **[Acessar repositório](https://github.com/GabrielNunesLopes/programacao-backend)**
+
+---
+
+## 🎯 Foco atual
+
+```text
+Back-End Development
+├── Node.js & Express
+├── APIs REST
+├── JavaScript
+├── C++
+├── Programação Orientada a Objetos
+├── Arquitetura de Software
+├── Git & GitHub
+└── Clean Code
+```
+
+Meu objetivo atual é fortalecer minha base em **engenharia de software e desenvolvimento Back-End**, evoluindo progressivamente para arquiteturas e aplicações mais completas.
+
+---
+
+## 📈 Desenvolvimento
+
+<div align="center">
+
+|            Status            |   Atualmente estudando   |         Objetivo        |
+| :--------------------------: | :----------------------: | :---------------------: |
+| 🎓 Desenvolvedor em formação |      Back-End & APIs     |  Engenharia de Software |
+|    💻 Construindo projetos   |       Node.js & C++      | Sistemas mais completos |
+|     📚 Evolução contínua     | Arquitetura & Clean Code |   Código profissional   |
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🧭 Objetivos
+
+* Desenvolver aplicações Back-End cada vez mais completas e robustas.
+* Aprimorar conhecimentos em **arquitetura e engenharia de software**.
+* Construir projetos que solucionem problemas reais.
+* Evoluir em **APIs, bancos de dados e desenvolvimento de sistemas**.
+* Aplicar padrões de projeto e boas práticas em projetos maiores.
+* Contribuir futuramente com projetos **open source**.
 
 ---
 
 <div align="center">
 
-> *"Clean code always looks like it was written by someone who cares."*  
-> **— Robert C. Martin**
+### Let's build something great.
+
+*"Clean code always looks like it was written by someone who cares."*
+
+**— Robert C. Martin**
+
+<br>
+
+<sub>Desenvolvido por Gabriel Nunes Lopes</sub>
 
 </div>
